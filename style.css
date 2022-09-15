@@ -1,0 +1,19 @@
+.h{
+    width: 80%;
+    font-size: 22px;
+}
+body{
+    color:darkmagenta;
+    background: url(Background.jpg);
+}
+#s,#a,#bo{
+    color:blueviolet;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+}
+#camera:hover{
+    border-radius: 2000%;
+    box-shadow: rgba(0, 255, 119, 0.751);
+}
